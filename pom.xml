@@ -16,6 +16,6 @@
     </dependency>
   </dependencies>
   <build>
-    <finalName>Day05_PhoneSearch</finalName>
+    <finalName>Day06_PhoneSearch</finalName>
   </build>
 </project>
